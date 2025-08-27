@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day02lab_231230949_22_08_2025\\day02lab_231230949_22_08_2025\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|solutionrelative:day02lab_231230949_22_08_2025\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day02lab_231230949_22_08_2025\\day02lab_231230949_22_08_2025\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|solutionrelative:day02lab_231230949_22_08_2025\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day02lab_231230949_22_08_2025\\day02lab_231230949_22_08_2025\\views\\game\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|solutionrelative:day02lab_231230949_22_08_2025\\views\\game\\index.cshtml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day02lab_231230949_22_08_2025\\day02lab_231230949_22_08_2025\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|solutionrelative:day02lab_231230949_22_08_2025\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day02lab_231230949_22_08_2025\\day02lab_231230949_22_08_2025\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|solutionrelative:day02lab_231230949_22_08_2025\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day02lab_231230949_22_08_2025\\day02lab_231230949_22_08_2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|solutionrelative:day02lab_231230949_22_08_2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day02lab_231230949_22_08_2025\\day02lab_231230949_22_08_2025\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38DB186-BF07-4960-A497-117233730D84}|Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025.csproj|solutionrelative:day02lab_231230949_22_08_2025\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day02Lab_231230949_22_08_2025\\Views\\Game\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Views\\Game\\Index.cshtml*",
+              "RelativeToolTip": "Day02Lab_231230949_22_08_2025\\Views\\Game\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:49:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day02Lab_231230949_22_08_2025\\Views\\Game\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Views\\Game\\Index.cshtml*",
+              "RelativeToolTip": "Day02Lab_231230949_22_08_2025\\Views\\Game\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:49:24.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day02Lab_231230949_22_08_2025\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day02Lab_231230949_22_08_2025\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:04:09.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day02Lab_231230949_22_08_2025\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Views\\User\\Index.cshtml*",
+              "RelativeToolTip": "Day02Lab_231230949_22_08_2025\\Views\\User\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-27T16:37:55.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Day02Lab_231230949_22_08_2025\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Controllers\\GameController.cs*",
+              "RelativeToolTip": "Day02Lab_231230949_22_08_2025\\Controllers\\GameController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:34:30.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Day02Lab_231230949_22_08_2025\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Day02Lab_231230949_22_08_2025\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:32:22.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Day02Lab_231230949_22_08_2025\\Models\\User.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day02Lab_231230949_22_08_2025\\Day02Lab_231230949_22_08_2025\\Models\\User.cs*",
+              "RelativeToolTip": "Day02Lab_231230949_22_08_2025\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T16:30:42.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
