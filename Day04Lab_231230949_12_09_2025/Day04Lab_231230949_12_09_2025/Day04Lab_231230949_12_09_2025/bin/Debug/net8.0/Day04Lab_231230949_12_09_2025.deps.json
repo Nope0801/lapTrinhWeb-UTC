@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day04Lab_231230949_12_09_2025/1.0.0": {
+        "runtime": {
+          "Day04Lab_231230949_12_09_2025.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day04Lab_231230949_12_09_2025/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
