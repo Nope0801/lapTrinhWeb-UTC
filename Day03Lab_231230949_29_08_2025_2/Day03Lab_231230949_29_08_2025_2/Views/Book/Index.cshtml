@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Day03Lab_231230949_29_08_2025_2.Models.Book>
+@{
+    ViewData["Title"] = "Index";
+}
+<h2 class="mb-3">Danh sách các cuốn sách</h2>
+
+<div class="p-3 mb-3 bg-white border rounded shadow-sm">
+    <form action="" method="POST" class="row g-2 align-items-center">
+        <div class="col-auto">
+            <select name="AuthorId" class="form-select" asp-items="@ViewBag.authors" style="min-width: 180px;">
+                <option value="">Chọn tác giả</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <select name="GenreId" class="form-select" asp-items="@ViewBag.genres" style="min-width: 180px;">
+                <option value="">Chọn thể loại</option>
+            </select>
+        </div>
+        <div class="col-auto">
+            <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+        </div>
+        <div class="col-auto">
+            <a asp-action="Create" class="btn btn-danger">Thêm mới</a>
+        </div>
+    </form>
+</div>
+
+<table class="table table-bordered bg-white shadow-sm">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Tiêu đề</th>
+            <th>Tác giả</th>
+            <th>Thể loại</th>
+            <th>Giá</th>
+            <th>Hình ảnh</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model)
+        {
+            <tr>
+                <td>@book.Id</td>
+                <td>@book.Title</td>
+                <td>@book.AuthorID</td>
+                <td>@book.GenreID</td>
+                <td>@book.Price</td>
+                <td>
+                    <img src="@book.Image" alt="@book.Title" width="40" />
+                </td>
+                <td>
+                    <a asp-action="Edit" class="btn btn-sm btn-primary">Sửa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

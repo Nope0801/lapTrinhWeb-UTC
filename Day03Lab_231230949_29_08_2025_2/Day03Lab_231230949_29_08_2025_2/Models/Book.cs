@@ -24,7 +24,7 @@ namespace Day03Lab_231230949_29_08_2025_2.Models
                     Title = "Chí Phèo",
                     AuthorID = 1,
                     GenreID = 1,
-                    Image = "/image/products/b1.jpg",
+                    Image = "/image/b1.jpg",
                     Price = 500000,
                     Sumary = "",
                     TotalPage = 250
@@ -35,7 +35,7 @@ namespace Day03Lab_231230949_29_08_2025_2.Models
                     Title = "Book 2",
                     AuthorID = 1,
                     GenreID = 1,
-                    Image = "/image/products/b2.jpg",
+                    Image = "/image/b2.jpg",
                     Price = 40000,
                     Sumary = "",
                     TotalPage = 10
@@ -46,7 +46,7 @@ namespace Day03Lab_231230949_29_08_2025_2.Models
                     Title = "Book 3",
                     AuthorID = 2,
                     GenreID = 3,
-                    Image = "/image/products/b1.jpg",
+                    Image = "/image/b1.jpg",
                     Price = 1000000,
                     Sumary = "",
                     TotalPage = 200
@@ -61,6 +61,21 @@ namespace Day03Lab_231230949_29_08_2025_2.Models
             Book? book = this.GetBookList().FirstOrDefault(b => b.Id == id);
             return book;
         }
-        public List<SelectListItem>
+        public List<SelectListItem> Authors { get; } = new List<SelectListItem>
+        {
+            new SelectListItem {Value = "1", Text = "Nam Cao"},
+            new SelectListItem {Value = "2", Text = "Ngô Tất Tố"},
+            new SelectListItem {Value = "3", Text = "Adamkhoom"},
+            new SelectListItem {Value = "4", Text = "Thiền sư Thích Nhất Hạnh"}
+        };
+        public List<SelectListItem> Genres { get; } = new List<SelectListItem>
+        {
+            new SelectListItem{Value ="1", Text="Truyện tranh"},
+            new SelectListItem{Value ="2", Text="Văn học đương đại"},
+            new SelectListItem{Value ="3", Text="Phật học phổ thông"},
+            new SelectListItem{Value ="4", Text="Truyện cười"},
+        };
+
+
     }
 }
