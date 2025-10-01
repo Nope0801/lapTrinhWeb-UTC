@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\student-management-asp_net\\student-management-asp_net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|solutionrelative:student-management-asp_net\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\student-management-asp_net\\student-management-asp_net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|solutionrelative:student-management-asp_net\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\student-management-asp_net\\student-management-asp_net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|solutionrelative:student-management-asp_net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\student-management-asp_net\\student-management-asp_net\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|solutionrelative:student-management-asp_net\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\student-management-asp_net\\student-management-asp_net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|solutionrelative:student-management-asp_net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\student-management-asp_net\\student-management-asp_net\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|solutionrelative:student-management-asp_net\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\student-management-asp_net\\student-management-asp_net\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94751565-0073-4F7D-AC8F-81DB8982395A}|Student-Management-ASP_NET\\Student-Management-ASP_NET.csproj|solutionrelative:student-management-asp_net\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Student-Management-ASP_NET\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Student-Management-ASP_NET\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T00:18:47.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Student-Management-ASP_NET\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Student-Management-ASP_NET\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-19T00:16:56.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Student-Management-ASP_NET\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Student-Management-ASP_NET\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T15:48:33.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Student-Management-ASP_NET\\appsettings.Development.json",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\appsettings.Development.json",
+              "RelativeToolTip": "Student-Management-ASP_NET\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T15:48:09.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Program.cs",
+              "RelativeDocumentMoniker": "Student-Management-ASP_NET\\Program.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Program.cs",
+              "RelativeToolTip": "Student-Management-ASP_NET\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:48:04.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\appsettings.json",
+              "RelativeDocumentMoniker": "Student-Management-ASP_NET\\appsettings.json",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\appsettings.json",
+              "RelativeToolTip": "Student-Management-ASP_NET\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T15:48:02.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Student-Management-ASP_NET\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Student-Management-ASP_NET\\Student-Management-ASP_NET\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Student-Management-ASP_NET\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:47:57.268Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
