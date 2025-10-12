@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\models\\loaisanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\models\\hoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\models\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\controllers\\quantriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\controllers\\chitiethoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\controllers\\chitiethoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\controllers\\hoadonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\controllers\\sanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\controllers\\loaisanphamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\controllers\\khachhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Migrations\\20251012162744_V1Tru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day0Lab1_CodeFirst\\Migrations\\20251012162744_V1Tru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Migrations\\20251012162043_V2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day0Lab1_CodeFirst\\Migrations\\20251012162043_V2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\models\\chitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Migrations\\20251012161511_V1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Day0Lab1_CodeFirst\\Migrations\\20251012161511_V1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day00lab_231230949_10_10_2025\\day0lab1_codefirst\\day0lab1_codefirst\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5EB842-E5C7-40B1-B4B1-19A45981D1B2}|Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst.csproj|solutionrelative:day0lab1_codefirst\\models\\quantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:47:22.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Program.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Program.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:33:52.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuanTrisController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\QuanTrisController.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Controllers\\QuanTrisController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\QuanTrisController.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Controllers\\QuanTrisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:41:32.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Models\\SanPham.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\SanPham.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:34:36.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Models\\KhachHang.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\KhachHang.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Models\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:23:50.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoaDon.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\HoaDon.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Models\\HoaDon.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\HoaDon.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Models\\HoaDon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:19:36.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoaiSanPham.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\LoaiSanPham.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Models\\LoaiSanPham.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\LoaiSanPham.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Models\\LoaiSanPham.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:34:14.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:47:24.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:47:54.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:49:39.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-12T16:49:25.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChiTietHoaDonsController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\ChiTietHoaDonsController.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Controllers\\ChiTietHoaDonsController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\ChiTietHoaDonsController.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Controllers\\ChiTietHoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:46:25.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HoaDonsController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\HoaDonsController.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Controllers\\HoaDonsController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\HoaDonsController.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Controllers\\HoaDonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:45:44.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SanPhamsController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\SanPhamsController.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Controllers\\SanPhamsController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\SanPhamsController.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Controllers\\SanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:45:06.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoaiSanPhamsController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Controllers\\LoaiSanPhamsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:43:31.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHangsController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\KhachHangsController.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Controllers\\KhachHangsController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Controllers\\KhachHangsController.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Controllers\\KhachHangsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:42:50.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20251012162744_V1Tru.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Migrations\\20251012162744_V1Tru.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Migrations\\20251012162744_V1Tru.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Migrations\\20251012162744_V1Tru.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Migrations\\20251012162744_V1Tru.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:27:45.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\appsettings.json",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\appsettings.json",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAClAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-12T15:57:57.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251012162043_V2.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Migrations\\20251012162043_V2.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Migrations\\20251012162043_V2.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Migrations\\20251012162043_V2.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Migrations\\20251012162043_V2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:20:44.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:40:18.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChiTietHoaDon.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\ChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Models\\ChiTietHoaDon.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\ChiTietHoaDon.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Models\\ChiTietHoaDon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:35:59.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251012161511_V1.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Migrations\\20251012161511_V1.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Migrations\\20251012161511_V1.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Migrations\\20251012161511_V1.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Migrations\\20251012161511_V1.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T16:15:11.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "QuanTri.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\QuanTri.cs",
+              "RelativeDocumentMoniker": "Day0Lab1_CodeFirst\\Models\\QuanTri.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day00Lab_231230949_10_10_2025\\Day0Lab1_CodeFirst\\Day0Lab1_CodeFirst\\Models\\QuanTri.cs",
+              "RelativeToolTip": "Day0Lab1_CodeFirst\\Models\\QuanTri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T15:14:08.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
