@@ -1,0 +1,44 @@
+﻿@model Day09Lab_231230949_17_10_2025.Models.HvtLoai_San_Pham
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>HvtLoai_San_Pham</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="hvtId" />
+            <div class="form-group">
+                <label asp-for="hvtMaLoai" class="control-label"></label>
+                <input asp-for="hvtMaLoai" class="form-control" />
+                <span asp-validation-for="hvtMaLoai" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="hvtTenLoai" class="control-label"></label>
+                <input asp-for="hvtTenLoai" class="form-control" />
+                <span asp-validation-for="hvtTenLoai" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="hvtTrangThai" /> @Html.DisplayNameFor(model => model.hvtTrangThai)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
