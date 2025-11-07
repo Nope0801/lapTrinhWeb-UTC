@@ -30,7 +30,7 @@ namespace Day09Lab_231230949_17_10_2025.Models
 
         public long hvtLoaiSanPhamId { get; set; }
 
-        public HvtLoai_San_Pham? hvtLoai_San_Pham { get; set; }
+        
 
     }
 }

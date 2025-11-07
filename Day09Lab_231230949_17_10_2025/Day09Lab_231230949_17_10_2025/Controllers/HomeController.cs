@@ -15,7 +15,8 @@ namespace Day09Lab_231230949_17_10_2025.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return RedirectToAction("Privacy", "Home");
+        }
         }
 
         public IActionResult Privacy()

@@ -4,6 +4,42 @@
     ViewData["Title"] = "Index";
 }
 
+<h1 class="text-center my-4">Danh Sách Sản Phẩm</h1>
+
+<div class="container">
+    <a asp-action="Create" class="btn btn-success mb-3">Thêm Sản Phẩm</a>
+    <table class="table table-striped table-hover">
+        <thead class="table-dark">
+            <tr>
+                <th>Mã Sản Phẩm</th>
+                <th>Tên Sản Phẩm</th>
+                <th>Hình Ảnh</th>
+                <th>Số Lượng</th>
+                <th>Đơn Giá</th>
+                <th>Loại Sản Phẩm</th>
+                <th>Hành Động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.hvtMaSanPham</td>
+                    <td>@item.hvtTenSanPham</td>
+                    <td><img src="@item.hvtHinhAnh" alt="Hình ảnh" style="width: 50px; height: 50px;" /></td>
+                    <td>@item.hvtSoLuong</td>
+                    <td>@item.hvtDonGia</td>
+                    <td>@item.hvtLoaiSanPhamId</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.hvtId" class="btn btn-warning btn-sm">Sửa</a>
+                        <a asp-action="Delete" asp-route-id="@item.hvtId" class="btn btn-danger btn-sm">Xóa</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@* 
 <h1>Index</h1>
 
 <p>
@@ -62,4 +98,4 @@
         </tr>
 }
     </tbody>
-</table>
+</table> *@

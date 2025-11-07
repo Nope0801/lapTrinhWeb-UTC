@@ -4,6 +4,54 @@
     ViewData["Title"] = "Create";
 }
 
+
+<h1 class="text-center my-4">Thêm Sản Phẩm</h1>
+
+<div class="container">
+    <form asp-action="Create" class="needs-validation" novalidate>
+        <div asp-validation-summary="ModelOnly" class="alert alert-danger"></div>
+
+        <div class="mb-3">
+            <label asp-for="hvtMaSanPham" class="form-label"></label>
+            <input asp-for="hvtMaSanPham" class="form-control" />
+            <span asp-validation-for="hvtMaSanPham" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="hvtTenSanPham" class="form-label"></label>
+            <input asp-for="hvtTenSanPham" class="form-control" />
+            <span asp-validation-for="hvtTenSanPham" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="hvtHinhAnh" class="form-label"></label>
+            <input asp-for="hvtHinhAnh" class="form-control" />
+            <span asp-validation-for="hvtHinhAnh" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="hvtSoLuong" class="form-label"></label>
+            <input asp-for="hvtSoLuong" class="form-control" />
+            <span asp-validation-for="hvtSoLuong" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="hvtDonGia" class="form-label"></label>
+            <input asp-for="hvtDonGia" class="form-control" />
+            <span asp-validation-for="hvtDonGia" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="hvtLoaiSanPhamId" class="form-label"></label>
+            <input asp-for="hvtLoaiSanPhamId" class="form-control" />
+            <span asp-validation-for="hvtLoaiSanPhamId" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Thêm</button>
+        <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+    </form>
+</div>
+@* 
 <h1>Create</h1>
 
 <h4>HvtSan_Pham</h4>
@@ -51,7 +99,7 @@
 
 <div>
     <a asp-action="Index">Back to List</a>
-</div>
+</div> *@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
