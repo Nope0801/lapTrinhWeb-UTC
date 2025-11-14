@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\models\\hvtsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\models\\hvtsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\models\\hvtday09labcfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\models\\hvtday09labcfcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,24 +31,12 @@
       "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\controllers\\hvtsan_phamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\views\\home\\hvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\views\\home\\hvtindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\models\\hvtsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|solutionrelative:day09lab_231230949_17_10_2025\\models\\hvtsan_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39313A64-BD0C-490A-843C-8E26F22D494F}|Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day09lab_231230949_17_10_2025\\day09lab_231230949_17_10_2025\\models\\hvtloai_san_pham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -99,58 +99,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HvtLoai_San_PhamController.cs",
-              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HvtLoai_San_PhamController.cs",
-              "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Controllers\\HvtLoai_San_PhamController.cs",
-              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HvtLoai_San_PhamController.cs",
-              "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\Controllers\\HvtLoai_San_PhamController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAswD4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T14:14:03.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBoAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T00:15:09.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Program.cs",
-              "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Program.cs",
-              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Program.cs",
-              "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T14:00:22.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HvtSan_PhamController.cs",
-              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HvtSan_PhamController.cs",
-              "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Controllers\\HvtSan_PhamController.cs",
-              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HvtSan_PhamController.cs",
-              "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\Controllers\\HvtSan_PhamController.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAgwEIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T14:21:40.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HvtDay09LabCFContext.cs",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Models\\HvtDay09LabCFContext.cs",
               "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Models\\HvtDay09LabCFContext.cs",
@@ -164,19 +112,68 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "HvtLoai_San_PhamController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HvtLoai_San_PhamController.cs",
+              "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Controllers\\HvtLoai_San_PhamController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HvtLoai_San_PhamController.cs",
+              "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\Controllers\\HvtLoai_San_PhamController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:14:03.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:15:09.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Program.cs",
+              "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Program.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Program.cs",
+              "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:00:22.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HvtSan_PhamController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HvtSan_PhamController.cs",
+              "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Controllers\\HvtSan_PhamController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Controllers\\HvtSan_PhamController.cs",
+              "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\Controllers\\HvtSan_PhamController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAgwEIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T14:21:40.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\appsettings.json",
               "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\appsettings.json",
               "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\appsettings.json",
               "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-10-17T13:37:05.592Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "HvtSan_Pham.cs",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Models\\HvtSan_Pham.cs",
               "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Models\\HvtSan_Pham.cs",
@@ -184,7 +181,8 @@
               "RelativeToolTip": "Day09Lab_231230949_17_10_2025\\Models\\HvtSan_Pham.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T13:39:22.05Z"
+              "WhenOpened": "2025-10-17T13:39:22.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -200,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "HvtIndex.cshtml",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Views\\Home\\HvtIndex.cshtml",
               "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Views\\Home\\HvtIndex.cshtml",
@@ -212,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day09Lab_231230949_17_10_2025\\Day09Lab_231230949_17_10_2025\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Day09Lab_231230949_17_10_2025\\Views\\Home\\Privacy.cshtml",

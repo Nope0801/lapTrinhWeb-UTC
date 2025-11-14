@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{733B2D3D-2722-4E63-A060-DFDDEB8A5DC0}|Day08Lab1\\Day08Lab1.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day08lab_231230949_8_10_2025\\day08lab1\\day08lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{733B2D3D-2722-4E63-A060-DFDDEB8A5DC0}|Day08Lab1\\Day08Lab1.csproj|solutionrelative:day08lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{733B2D3D-2722-4E63-A060-DFDDEB8A5DC0}|Day08Lab1\\Day08Lab1.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day08lab_231230949_8_10_2025\\day08lab1\\day08lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{733B2D3D-2722-4E63-A060-DFDDEB8A5DC0}|Day08Lab1\\Day08Lab1.csproj|solutionrelative:day08lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{733B2D3D-2722-4E63-A060-DFDDEB8A5DC0}|Day08Lab1\\Day08Lab1.csproj|solutionrelative:day08lab1\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{733B2D3D-2722-4E63-A060-DFDDEB8A5DC0}|Day08Lab1\\Day08Lab1.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day08lab_231230949_8_10_2025\\day08lab1\\day08lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{733B2D3D-2722-4E63-A060-DFDDEB8A5DC0}|Day08Lab1\\Day08Lab1.csproj|solutionrelative:day08lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{733B2D3D-2722-4E63-A060-DFDDEB8A5DC0}|Day08Lab1\\Day08Lab1.csproj|d:\\code\\code3\\laptrinhweb\\ggclassroom\\day08lab_231230949_8_10_2025\\day08lab1\\day08lab1\\migrations\\20251008085633_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{733B2D3D-2722-4E63-A060-DFDDEB8A5DC0}|Day08Lab1\\Day08Lab1.csproj|solutionrelative:day08lab1\\migrations\\20251008085633_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,24 +54,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Day08Lab1\\Controllers\\CategoriesController.cs",
-              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Day08Lab1\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAcwIoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T08:18:55.886Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Day08Lab1\\Controllers\\ProductsController.cs",
@@ -83,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Views\\Categories\\Create.cshtml",
               "RelativeDocumentMoniker": "Day08Lab1\\Views\\Categories\\Create.cshtml",
@@ -95,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Views\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "Day08Lab1\\Views\\Categories\\Index.cshtml",
@@ -107,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Program.cs",
               "RelativeDocumentMoniker": "Day08Lab1\\Program.cs",
@@ -120,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Entities\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Day08Lab1\\Entities\\AppDbContext.cs",
@@ -132,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Day08Lab1\\Models\\Category.cs",
@@ -156,7 +143,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\appsettings.json",
+              "RelativeDocumentMoniker": "Day08Lab1\\appsettings.json",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\appsettings.json",
+              "RelativeToolTip": "Day08Lab1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T07:55:24.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Day08Lab1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Day08Lab1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAcwIoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:18:55.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Day08Lab1\\Models\\Product.cs",
@@ -177,18 +189,6 @@
               "ViewState": "AgIAABAAAAAAAAAAAAAQwDIAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T08:12:56.279Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\appsettings.json",
-              "RelativeDocumentMoniker": "Day08Lab1\\appsettings.json",
-              "ToolTip": "D:\\Code\\Code3\\LapTrinhWeb\\GGClassroom\\Day08Lab_231230949_8_10_2025\\Day08Lab1\\Day08Lab1\\appsettings.json",
-              "RelativeToolTip": "Day08Lab1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-08T07:55:24.396Z"
             }
           ]
         }
