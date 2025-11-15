@@ -12,10 +12,17 @@ namespace Day13Lab_231230949_14_11_2025_2.Controllers
         {
             db = context;
         }
-        public IActionResult Index()
+        public IActionResult Index(int? mid)
         {
             var learners = db.Learners.Include(m => m.Major).ToList();
             return View(learners);
+        }
+        public IActionResult LearnerByMajorID(int mid)
+        {
+            var learners = db.Learners
+                .Where(l => l.MajorId == mid)
+                .Include(m => m.Major).ToList();
+            return PartialView("LearnerTable", learners);
         }
         public IActionResult Create()
         {
